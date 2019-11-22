@@ -1,7 +1,16 @@
 # TrabalhoGS
-Aqui está o projeto referente ao trabalho de GS, dos alunos: Aline Jaime, Rafael, Amanda e Marcelo
 
-Etapa que cada será Responsável
+Aqui está o projeto referente ao trabalho de GS, dos alunos: Aline Jaime, Rafael, Amanda, Marcelo e André
+
+Etapa que cada aluno será Responsável
+
+# Amanda
+
+Requisitos
+
+# André
+
+Design
 
 # Aline
 
@@ -11,14 +20,7 @@ Front End
 
 Back End
 
-# Amanda
-
-Requisitos
-
 # Marcelo
 
 Teste
 
-# André
-
-Design
